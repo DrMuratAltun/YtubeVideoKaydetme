@@ -1,4 +1,4 @@
-# YtubeVideoKaydetme
+# YtubeVideoİndirme
 This Python prog. for download youtube videos
 Python 3.6
 pip install pytube3
